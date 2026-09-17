@@ -11,3 +11,6 @@ wheels/
 
 .env*
 !.env.example
+
+# Tooling caches
+.ruff_cache/
